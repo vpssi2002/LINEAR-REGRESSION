@@ -1,3 +1,3 @@
 # LINEAR-REGRESSION
 Linear Regression -- CAR PRICE PREDICTION , 
-AUTOMOBILE 
+AutoMobile
